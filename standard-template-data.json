@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.3.0",
-    "generatedAt": "2026-08-31T03:00:08.888667999Z",
+    "version": "1.4.0",
+    "generatedAt": "2026-10-09T07:14:19.430850147Z",
     "templateType": "trip_d",
     "propertyId": "f4cbf8b1-7454-4b26-983b-d3fefec49f59",
     "homepageId": "665cf8c0-1bff-4a1e-b557-07a17f334f77"
@@ -22,13 +22,16 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n※ 당일 예약 후 당일 바로 이용하는 경우(오후 10시 이후 입실의 경우) 확정 예약이 아니오니 꼭 업체에 사전 문의 후 결재해주세요.",
-    "usageGuide": "- 고기,생선 조리불가\n- 오후 10시 이후의 바비큐장 이용 및 고성방가는 타객실 손님을 위하여 금하오니 양해바랍니다.\n- 집기 파손 시에는 펜션지기에게 알려주시기 바랍니다.\n- 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n※ 당일 예약 후 당일 바로 이용하는 경우(오후 10시 이후 입실의 경우) 확정 예약이 아니오니 꼭 업체에 사전 문의 후 결재해주세요.\n\n[인원추가요금]\n※ 영유아 최대 인원수에 포함\n※ 2인 무료/ 초과시 1인 20,000원(현장결제)\n※ 루미에르 객실 : 침구추가 20,000원 별도\n\n[개별바베큐]\n- 바베큐 형태: 가스그릴+돌판\n- 이용 객실: 전 객실\n- 이용 요금: 객실 당 30,000원(현장결제) (1박기준/현장결제)\n- 신청 시간: 제한없음\n- 이용 시간: ~00:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 최소 1일전 사전예약 필수\n※ 개인 그릴 지참 금지\n\n[공용수영장]\n- 운영 기간: 25년 4월 오픈 예정\n- 이용 요금: 무료\n- 이용 복장: 수영복,수영모,래쉬가드\n- 수영장 크기: 22m x 7m x 1m\n※ 수영장 운영은 기상 상황에 따라 변동 또는 중단될 수 있습니다.\n※ 대형튜브 사용은 안전상의 이유로 통제합니다.\n※ 유아는 방수기저귀 착용 후 입수 가능합니다.\n※ 수영장에서 주류, 음식물 섭취 불가입니다.\n※ 비바람 불때는 실외수영장 사용금지\n※ 수영 장에서는 물총.비눗방울.풍선금지\n\n[개별수영장]\n- 운영 기간: 사계절\n- 이용 객실: 라루체,쏠라,라스텔라,루나\n- 이용 요금: 객실당 60,000원(미온수) (1박기준/현장결제)\n- 이용 복장: 수영복,수영모,래쉬가드\n- 온도: 미온수\n- 수영장 크기: 4.7m x 8.6m x 0.8-0.9m\n※ 미온수 필수 사용 (현장결제)\n※ 동계 : 30~33도\n\n[애견동반]\n- 전 객실 애견동반 불가합니다.\n\n[스파]\n- 이용 객실: 라루체,쏠라,라스텔라\n- 스파 형태: 제트스파\n- 수용 인원: 2인\n- 이용 시간: 제한없음\n- 입욕제 사용 불가\n※ 온도: 40~45도\n※ 퇴실하는 날 오전에 사용 불가\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 전 객실 실내 놀이터,게임기 보유\n- 전 객실 스타일러,커피얼음정수기,식기건조기,세탁기,전자레인지(오븐겸용) 보유\n\n- 해양수산과학관 펜션에서 차량 8분\n- 여수예술랜드 펜션에서 차량 12분\n- 라마다해상짚트랙 펜션에서 차량 17분\n- 여수 엑스포 펜션에서 차량 20분\n- 이순신광장 펜션에서 차량 23분\n- 항일암 펜션에서 차량 24분\n\n[주차장]\n- 주차장 보유",
+    "usageGuide": "[공지사항]\n- 고기,생선 조리불가\n- 오후 10시 이후의 바비큐장 이용 및 고성방가는 타객실 손님을 위하여 금하오니 양해바랍니다.\n- 집기 파손 시에는 펜션지기에게 알려주시기 바랍니다.\n- 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척해 주시기 바랍니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실하실 경우 펜션으로 미리 연락 부탁드립니다.\n※ 당일 예약 후 당일 바로 이용하는 경우(오후 10시 이후 입실의 경우) 확정 예약이 아니오니 꼭 업체에 사전 문의 후 결재해주세요.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 36개월 이상~8세 미만\n- 유아: 36개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 영유아 최대 인원수에 포함\n※ 2인 무료/ 초과시 1인 20,000원(현장결제)\n※ 루미에르 객실 : 침구추가 20,000원 별도\n\n[개별바베큐]\n- 바베큐 형태: 가스그릴+돌판\n- 이용 객실: 전 객실\n- 이용 요금: 객실 당 30,000원(현장결제) (1박기준/현장결제)\n- 신청 시간: 제한없음\n- 이용 시간: ~00:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n※ 최소 1일전 사전예약 필수\n※ 개인 그릴 지참 금지\n\n[공용수영장]\n- 운영 기간: 25년 4월 오픈 예정\n- 이용 요금: 무료\n- 이용 복장: 수영복,수영모,래쉬가드\n- 수영장 크기: 22m x 7m x 1m\n※ 수영장 운영은 기상 상황에 따라 변동 또는 중단될 수 있습니다.\n※ 대형튜브 사용은 안전상의 이유로 통제합니다.\n※ 유아는 방수기저귀 착용 후 입수 가능합니다.\n※ 수영장에서 주류, 음식물 섭취 불가입니다.\n※ 비바람 불때는 실외수영장 사용금지\n※ 수영 장에서는 물총.비눗방울.풍선금지\n\n[개별수영장]\n- 운영 기간: 사계절\n- 이용 객실: 라루체,쏠라,라스텔라,루나\n- 이용 요금: 객실당 60,000원(미온수) (1박기준/현장결제)\n- 이용 복장: 수영복,수영모,래쉬가드\n- 온도: 미온수\n- 수영장 크기: 4.7m x 8.6m x 0.8-0.9m\n※ 미온수 필수 사용 (현장결제)\n※ 동계 : 30~33도\n\n[애견동반]\n- 전 객실 애견동반 불가합니다.\n\n[스파]\n- 이용 객실: 라루체,쏠라,라스텔라\n- 스파 형태: 제트스파\n- 수용 인원: 2인\n- 이용 시간: 제한없음\n- 입욕제 사용 불가\n※ 온도: 40~45도\n※ 퇴실하는 날 오전에 사용 불가\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 전 객실 실내 놀이터,게임기 보유\n- 전 객실 스타일러,커피얼음정수기,식기건조기,세탁기,전자레인지(오븐겸용) 보유\n\n- 해양수산과학관 펜션에서 차량 8분\n- 여수예술랜드 펜션에서 차량 12분\n- 라마다해상짚트랙 펜션에서 차량 17분\n- 여수 엑스포 펜션에서 차량 20분\n- 이순신광장 펜션에서 차량 23분\n- 항일암 펜션에서 차량 24분\n\n[주차장]\n- 주차장 보유",
     "reservationGuide": "- 고기,생선 조리불가\n- 오후 10시 이후의 바비큐장 이용 및 고성방가는 타객실 손님을 위하여 금하오니 양해바랍니다.\n- 집기 파손 시에는 펜션지기에게 알려주시기 바랍니다.\n- 퇴실시 음식물을 비롯한 모든 쓰레기는 분리수거해 주시고, 사용하신 주방기구는 세척해 주시기 바랍니다.",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "kinol.kr",
     "realtimeBookingId": "https://map.naver.com/p/entry/place/1071467473",
     "ybsId": "72871",
+    "tripPropertyId": "5273",
+    "partnerType": "distributor_a",
+    "tripProviderName": "트립일레븐",
     "amenities": [
       "공용화장실",
       "흡연구역(지정장소)",
@@ -422,7 +425,7 @@
           {
             "id": "65b840c4-c027-442e-a044-34924dd77caf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/21/lQ3OyU9YcGx0.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -432,7 +435,7 @@
           {
             "id": "475e2e57-c1a0-48a8-8e39-e5398a28877b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/21/lFLIGh58XPSB.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -440,7 +443,7 @@
           {
             "id": "3b2df43b-90ce-4f7e-a4f3-49e87d6a8177",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/21/7ys6LUcpJ9Xo.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -448,7 +451,7 @@
           {
             "id": "9c954675-296a-44f7-a6da-9edc36f3ffe0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/21/5dFuCcXbqKZE.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -456,7 +459,7 @@
           {
             "id": "5b302da9-2097-4655-b5b1-656999b9e848",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/21/kVjIOf1vnuEz.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -464,7 +467,7 @@
           {
             "id": "b13995fb-0170-48df-bc22-7b5d515b6aa0",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/21/uCFSNObxgcdK.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -472,7 +475,7 @@
           {
             "id": "68bf4376-21c3-43ab-8199-a8ab89bc4166",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/21/yJ3jqoxrpzQc.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -480,7 +483,7 @@
           {
             "id": "ed5f7701-f6e3-48b6-9840-f563aaad395a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/21/Kj4YmbChkyiw.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -488,7 +491,7 @@
           {
             "id": "218b17c0-1c85-4492-8594-075bdff90a1e",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/21/Dw6uHWhJ7F2f.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -496,7 +499,7 @@
           {
             "id": "6c975461-f063-4622-8051-2c0d5058f178",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/01/21/YznBP876O2iH.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2846,6 +2849,35 @@
                 "description": ""
               },
               "enabled": true
+            }
+          ]
+        },
+        "landing": {
+          "sections": [
+            {
+              "enabled": false,
+              "hero": {
+                "images": [ ]
+              },
+              "about": [
+                {
+                  "blockId": "sample-card-1",
+                  "propertyId": "sample-property-1",
+                  "propertyName": "현재 숙소",
+                  "title": "",
+                  "images": [ ],
+                  "order": 1
+                },
+                {
+                  "blockId": "sample-card-2",
+                  "propertyId": "sample-property-2",
+                  "propertyName": "연결 숙소 2",
+                  "domain": "http://localhost:8000/t-template-D",
+                  "title": "",
+                  "images": [ ],
+                  "order": 2
+                }
+              ]
             }
           ]
         }
